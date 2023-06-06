@@ -1,5 +1,5 @@
 # Spam Classifier
-![image](https://github.com/SurajspatiL99/Spam_Classifier/assets/101862962/59e718ef-a4fa-4bf5-ac44-07f573eda857)
+![sms](https://github.com/SurajspatiL99/Spam_Classifier/assets/101862962/5bb489bc-7561-4520-ac4e-30c28eed5927)
 
 ## Exploratory Data Analysis (EDA):
 After cleaning the data, exploratory data analysis was performed to gain insights into the characteristics and distribution of our SMS dataset. This step helped understand the composition of spam and non-spam messages, identify any class imbalances, and explore other relevant patterns or trends within the data. WordCloud and Seaborn were utilized for visualizations and statistical analysis techniques to extract meaningful information from the dataset.
